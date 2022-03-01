@@ -1,0 +1,4 @@
+nc: 3
+names: ['incorrect', 'mask', 'no_mask']
+test: /Users/siowcm/Downloads/facemask.v3i.yolov5pytorch/test
+train: /Users/siowcm/Downloads/facemask.v3i.yolov5pytorch/train
